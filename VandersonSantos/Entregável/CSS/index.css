@@ -1,0 +1,53 @@
+body{ 
+    background:  white;
+    margin: 0;
+    padding:0px;
+    height: 100%;
+    text-align: center;
+}
+
+.imgcoffeeshop{
+    margin:0;
+}
+
+
+.linkbody{
+    text-decoration: none;
+    color: Black;
+}
+
+.page-wrapper{
+    min-width:100%;
+}
+
+.conteiner-capsula{
+    border: 5px;
+    display: flex;
+    text-align: center;
+}
+.conteiner-capsula .coluna-capsulas{
+    flex:1;
+    padding: 25px;
+}
+
+.nomecaps{
+    font-size: 20px;
+}
+
+.imgcaps{
+    height: 100px;
+}
+
+.page-wrapper{
+    min-width:100%;
+}
+.topvendas{
+
+    text-align: center; 
+}
+
+#imgcoffeeshop{
+    height: 450px;
+    width: 100%;
+}
+

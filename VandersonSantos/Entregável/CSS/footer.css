@@ -1,0 +1,95 @@
+
+.footer{
+    background:  #D2B48C;
+    height: 350px;
+    position: relative;
+}
+
+.footer .footer-content{
+    border: 1px;
+    height: 350px;
+    display: flex;
+    text-align: center;
+}
+
+.footer .footer-content .footer-section{
+    flex:1;
+    /*border: 1px solid black;*/
+    padding: 25px;
+}
+
+.footer .footer-content .contact-form a,
+.footer .footer-content .social a{
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+    list-style: none; 
+    color: Black;
+    text-decoration: none;
+}
+
+.footer .footer-content .contact-form a:hover,
+.footer .footer-content .social a:hover{
+    font-size: 1.15em;
+    color: black;
+
+}
+
+.footer .footer-bottom{
+    background #D2B48C;
+    color: white;
+    height:50px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom:0px;
+    left:0px;
+    padding-top :20px;
+}
+
+.footer .footer-bottom a{
+    text-decoration: none;
+    color: Black;
+
+}
+
+.linkfooter{
+    text-decoration: none;
+    color: Black;
+}
+
+
+
+.section-about{
+    border: 1px;
+    height: 100px;
+    display: flex;
+    text-align: center;
+}
+
+.section-about .about1{
+    flex:1;
+    
+    padding: 25px;
+}
+
+
+#imgtelefone{
+    height: 20px;
+}
+#imgemail{
+    height: 20px;
+}
+#imgfacebook{
+    height: 20px;
+}
+#imginstagram{
+    height: 20px;
+}
+#imgcapsulas{
+    height: 100px;
+}
+
+
+
+
